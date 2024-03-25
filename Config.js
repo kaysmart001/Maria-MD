@@ -2,19 +2,19 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernumber =  "254742710486"
-global.ownername = "Ashali renson"
+global.ownernumber =  "2348167666917"
+global.ownername = "Kaysmart"
 global.ytname = "YT: AyushBotz.inc"
-global.socialm = "GitHub: Ayushpandey023"
+global.socialm = "GitHub: kaysmart001"
 global.location = "Kenya"
 
 global.ownername = 'Ayush' //owner name
-global.botname = 'GOLD-KING' //name of the bot
+global.botname = 'Kaysmart Bot' //name of the bot
 
 //sticker details
 global.stickername = '💙𓆩‎✘AʏᴜSʜ✘𓆪_✰'
-global.packname = 'Sticker By'
-global.author = 'Gold Bot'
+global.packname = 'Sticker By Kaysmart Bot'
+global.author = 'Kaysmart Bot'
 //console view/theme
 global.themeemoji = '🧩'
 global.wm = "Ayush botz inc."
